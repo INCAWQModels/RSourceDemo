@@ -1,4 +1,3 @@
-source("config.r")
 dir.create(testDirName)
 setwd(testDirName)
 getwd()
