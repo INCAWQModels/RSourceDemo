@@ -1,5 +1,5 @@
-dir.create(testDirName)
-setwd(testDirName)
+dir.create(dirName)
+setwd(dirName)
 getwd()
 timeDiff <- timeend-timestart
 sink(outFileName)
